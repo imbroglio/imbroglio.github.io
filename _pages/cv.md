@@ -7,53 +7,33 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+See [here] for a detailed CV in PDF form.
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+* **Ph.D. Candidate** &#151; Actuarial Science, _University of Waterloo_, 2020-present
+* **Master of Mathematics** &#151; Actuarial Science, _University of Waterloo_, 2019-2020
+  * Completed thesis: [Cost-Efficient Contingent Claims with Choquet Pricing](https://uwspace.uwaterloo.ca/handle/10012/16420)
+* **Honours Bachelor of Mathematics** &#151; Mathematical Finance, _University of Waterloo_, 2013-2018
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Publications, Manuscripts and Presentations
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+See [here](https://michaelzhu.ca/research/).
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Teaching
+
+See [here](https://michaelzhu.ca/teaching/).
+
+## Professional Service
+
+Conference Co-Chair &#151; 4th Waterloo Student Conference in Statistics, Actuarial Science and Finance (WSSAF)
+:   One of two student organizers in charge of this conference. Duties included contacting external speakers, managing volunteers, event logistics, etc.
+
+Research Mentor &#151; Women in Mathematics (WiM) Directed Reading Program
+:   Mentored a female undergraduate student from the Faculty of Mathematics as part of the WiM Directed Reading Program. Focused on the topic of economic equilibria from mathematical economics.
+
+Conference Volunteer, Session Chair &#151; 2nd and 3rd WSSAF
+:   Assisted with the 2nd and 3rd editions of the Waterloo Student Conference in Statistics, Actuarial Science and Finance. Reviewed abstracts and served as session chair.
+
+#### Peer-Review Service
+
+* ASTIN Bulletin.
