@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
-
 I am a Ph.D. candidate in Actuarial Science at the [University of Waterloo](https://uwaterloo.ca/statistics-and-actuarial-science/), supervised by [Prof. Mario Ghossoub](https://sites.google.com/site/marioghossoub/).
 
 My current research focuses on studying how risk is allocated among different agents within an economic framework. Specifically, I study the structure of Pareto optima and market equilibria, as they are affected by different models of agent preferences, market structure, etc. I am broadly interested in quantitative risk management, and its intersection with economics and mathematical finance.

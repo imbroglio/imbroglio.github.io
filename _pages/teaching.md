@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching
-
 Sessional Instructor, _University of Waterloo_:
 
 * ACTSC 446/846 &#151; Introduction into Financial Mathematics, Fall 2023
