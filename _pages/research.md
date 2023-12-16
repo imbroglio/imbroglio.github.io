@@ -23,7 +23,7 @@ author_profile: true
 1. Insurance with Heterogeneous Beliefs: A Sequential Game Model. _Waterloo 3rd Student Conference in Statistics, Actuarial Science, and Finance_ (Oct. 2022).
 1. Risk Sharing with Heterogeneous Beliefs. _University of Amsterdam_ (Jun. 2022).
 1. Risk-Constrained Portfolio Choice via Quantiles. _Waterloo 2nd Student Conference in Statistics, Actuarial Science, and Finance_ (Nov. 2021), _56th Actuarial Research Conference_ (Aug. 2021), _24th International Congress on Insurance: Mathematics and Economics_ (Jul. 2021).
-1. Cost-Efficient Contingent Claims with Choquet Pricing. _Canadian Operational Research Society Annual Conference_ (Jun. 2021), _University of Waterloo Statistics and Actuarial Science Presentation Day_ (Feb\ 2021).
+1. Cost-Efficient Contingent Claims with Choquet Pricing. _Canadian Operational Research Society Annual Conference_ (Jun. 2021), _University of Waterloo Statistics and Actuarial Science Presentation Day_ (Feb. 2021).
 
 ### Links
 
