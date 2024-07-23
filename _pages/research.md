@@ -20,6 +20,7 @@ author_profile: true
 
 ## Academic Presentations
 
+1. Pareto-Efficient Contracts in Centralized vs. Decentralized Insurance Markets. _27th International Congress on Insurance: Mathematics and Economics_ (Jul. 2024).
 1. Equilibria and Efficiency in a Reinsurance Market. _26th International Congress on Insurance: Mathematics and Economics_ (Jul. 2023).
 1. Insurance with Heterogeneous Beliefs: A Sequential Game Model. _Waterloo 3rd Student Conference in Statistics, Actuarial Science, and Finance_ (Oct. 2022).
 1. Risk Sharing with Heterogeneous Beliefs. _University of Amsterdam_ (Jun. 2022).
