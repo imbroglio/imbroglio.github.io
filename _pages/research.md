@@ -14,8 +14,8 @@ author_profile: true
 
 ## Pre-publication Manuscripts and Working Papers
 
-1. Ghossoub, M., and **Zhu, M.B.** Efficiency in Pure-Exchange Economies with Risk-Averse Monetary Utilities. _Submitted_. \[[arXiv](http://arxiv.org/abs/2406.02712)\]
-1. **Zhu, M.B.**, Ghossoub, M., and Chong, W.F. Pareto-Optimal Peer-to-Peer Risk Sharing with Distortion Risk Measures. _Working paper_.
+1. Ghossoub, M., and **Zhu, M.B.** Efficiency in Pure-Exchange Economies with Risk-Averse Monetary Utilities. _Submitted_. \[[arXiv](https://arxiv.org/abs/2406.02712)\]
+1. Ghossoub, M., **Zhu, M.B.**, and Chong, W.F. Pareto-Optimal Peer-to-Peer Risk Sharing with Robust Distortion Risk Measures. _Submitted_. \[[arXiv](https://arxiv.org/abs/2409.05103)\]
 1. Ghossoub, M., and **Zhu, M.B.** Loss Aversion for Decision under Risk. _Working paper_.
 
 ## Academic Presentations
