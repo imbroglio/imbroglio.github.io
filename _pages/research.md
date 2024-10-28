@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-Reviewed Journal Articles
 
-1. Ghossoub, M., and **Zhu, M.B.** Risk-Constrained Portfolio Choice via Quantiles. _Finance and Stochastics_, forthcoming. \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4580211)\]
+1. Ghossoub, M., and **Zhu, M.B.** Risk-Constrained Portfolio Choice under Rank-Dependent Utility. _Finance and Stochastics_, forthcoming. \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4580211)\]
 1. Ghossoub, M., and **Zhu, M.B.** (2024). [Stackelberg Equilibria with Multiple Policyholders](https://doi.org/10.1016/j.insmatheco.2024.02.008). _Insurance: Mathematics and Economics_, 116(1):189-201.
 1. Coke, O., Ghossoub, M., and **Zhu, M.B.** (2024). [Pareto-Optimal Insurance with an Upper Limit on the Insurer's Exposure](https://doi.org/10.1080/03461238.2023.2239533). _Scandinavian Actuarial Journal_, 2024(3):227-251.
 1. **Zhu, M.B.**, Boonen, T.J., and Ghossoub, M. (2023). [Equilibria and Efficiency in a Reinsurance Market](https://doi.org/10.1016/j.insmatheco.2023.07.004). _Insurance: Mathematics and Economics_, 113(1):24-49.
