@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent Ph.D.\ graduate in Actuarial Science from the [University of Waterloo](https://uwaterloo.ca/statistics-and-actuarial-science/). My supervisor was [Prof. Mario Ghossoub](https://sites.google.com/site/marioghossoub/).
+I am a recent Ph.D. graduate in Actuarial Science from the [University of Waterloo](https://uwaterloo.ca/statistics-and-actuarial-science/). My supervisor was [Prof. Mario Ghossoub](https://sites.google.com/site/marioghossoub/).
 
 My current research focuses on studying how risk is allocated among different agents within an economic framework. Specifically, I study the structure of Pareto optima and market equilibria, as they are affected by different models of agent preferences, market structure, etc. I am broadly interested in quantitative risk management and its intersections with economics and mathematical finance.
 
