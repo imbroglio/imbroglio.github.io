@@ -9,6 +9,10 @@ redirect_from:
 
 See [here](/files/mbzhu_cv.pdf) for a more detailed CV.
 
+## Academic Experience
+
+* **Assistant Professor of Actuarial Science**, _University of Hong Kong_, 2025-present
+
 ## Education
 * **Ph.D. &#151; Actuarial Science**, _University of Waterloo_, 2025
   * Supervisor: [Prof. Mario Ghossoub](https://sites.google.com/site/marioghossoub/). Thesis: [Efficiency and Equilibria in Centralized and Decentralized Insurance Markets](https://hdl.handle.net/10012/21657)

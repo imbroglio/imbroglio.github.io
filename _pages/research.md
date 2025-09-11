@@ -7,6 +7,7 @@ author_profile: true
 
 ## Peer-Reviewed Journal Articles
 
+1. Ghossoub, M., and **Zhu, M.B.** Efficiency in Pure-Exchange Economies with Risk-Averse Monetary Utilities. _Mathematical Finance_, forthcoming. \[[arXiv](https://arxiv.org/abs/2406.02712)\]
 1. Ghossoub, M., **Zhu, M.B.**, and Chong, W.F. Pareto-Optimal Peer-to-Peer Risk Sharing with Robust Distortion Risk Measures. _ASTIN Bulletin_, forthcoming. \[[arXiv](https://arxiv.org/abs/2409.05103)\]
 1. Ghossoub, M., and **Zhu, M.B.** (2025). [Risk-Constrained Portfolio Choice under Rank-Dependent Utility](https://doi.org/10.1007/s00780-024-00555-z). _Finance and Stochastics_, 29(2):399-442.
 1. Ghossoub, M., and **Zhu, M.B.** (2024). [Stackelberg Equilibria with Multiple Policyholders](https://doi.org/10.1016/j.insmatheco.2024.02.008). _Insurance: Mathematics and Economics_, 116(1):189-201.
@@ -15,7 +16,7 @@ author_profile: true
 
 ## Pre-publication Manuscripts and Working Papers
 
-1. Ghossoub, M., and **Zhu, M.B.** Efficiency in Pure-Exchange Economies with Risk-Averse Monetary Utilities. _Submitted_. \[[arXiv](https://arxiv.org/abs/2406.02712)\]
+1. Andraos, M., Ghossoub, M., and **Zhu, M.B.** Subgame Perfect Nash Equilibria in Large Reinsurance Markets. _Submitted_. \[[arXiv](https://arxiv.org/abs/2506.07291)\]
 1. Ghossoub, M., and **Zhu, M.B.** Loss Aversion for Decision under Risk. _Working paper_.
 
 ## Academic Presentations

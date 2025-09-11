@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Michael Boyuan Zhu"
   avatar           : "profile_pic.jpg"
-  bio              : "PhD Candidate <br> Actuarial Science"
-  location         : "Waterloo, ON"
+  bio              : "Assistant Professor <br> Actuarial Science"
+  location         : "Hong Kong SAR"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.ca/citations?user=icVQeggAAAAJ&hl=en&oi=sra"
-  email            : "mbzhu@uwaterloo.ca"
+  email            : "mbzhu@hku.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
