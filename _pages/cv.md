@@ -41,4 +41,4 @@ Conference Volunteer, Session Chair &#151; 2nd and 3rd WSSAF
 
 ### Peer-Review Service
 
-* ASTIN Bulletin, North American Actuarial Journal, Scandinavian Actuarial Journal.
+* ASTIN Bulletin, North American Actuarial Journal, Scandinavian Actuarial Journal, International Review of Economics and Finance.
