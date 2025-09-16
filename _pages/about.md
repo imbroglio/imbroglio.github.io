@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Statistics and Actuarial Science](https://saasweb.hku.hk) at the [University of Hong Kong](https://www.hku.hk).
+I am an Assistant Professor in the [Department of Statistics and Actuarial Science](https://saasweb.hku.hk) in the [School of Computing and Data Science](https://www.cds.hku.hk) at the [University of Hong Kong](https://www.hku.hk).
 I obtained my Ph.D. in Actuarial Science from the University of Waterloo under the supervision of [Prof. Mario Ghossoub](https://sites.google.com/site/marioghossoub).
 
 My current research focuses on studying how risk is allocated among different agents within an economic framework. Specifically, I study the structure of Pareto optima and market equilibria, as they are affected by different models of agent preferences, market structure, etc. I am broadly interested in quantitative risk management and its intersections with economics and mathematical finance.
