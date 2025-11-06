@@ -3,7 +3,7 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -14,3 +14,9 @@ I obtained my Ph.D. in Actuarial Science from the University of Waterloo under t
 My current research focuses on studying how risk is allocated among different agents within an economic framework. Specifically, I study the structure of Pareto optima and market equilibria, as they are affected by different models of agent preferences, market structure, etc. I am broadly interested in quantitative risk management and its intersections with economics and mathematical finance.
 
 I am an [Associate of the Society of Actuaries (ASA)](https://www.soa.org/education/exam-req/edu-asa-req) and am currently pursuing fellowship.
+
+## Prospective Students
+
+I have two openings for PhD students starting in Fall 2026.
+If you are interested in working with me, please email me your transcripts, CV, and research interests.
+A strong background in mathematics is preferred.
