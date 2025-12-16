@@ -8,7 +8,7 @@ author_profile: true
 Sessional Instructor, _University of Waterloo_:
 
 * ACTSC 446/846 &#151; Mathematics of Financial Markets, Fall 2023
-  * An advanced undergraduate course covering options, stochastic calculus, Ito's lemma, binomial pricing model, Black-Scholes pricing model, etc. Slides are available:<br/>\[[Outline](/files/ACTSC446_Outline.pdf)\] \[[1](/files/ACTSC446_Part1.pdf)\] \[[2](/files/ACTSC446_Part2.pdf)\] \[[3](/files/ACTSC446_Part3.pdf)\] \[[4](/files/ACTSC446_Part4.pdf)\]
+  * An advanced undergraduate course covering options, stochastic calculus, Ito's lemma, binomial pricing model, Black-Scholes pricing model, etc.
 
 
 Teaching Assistant, _University of Waterloo_:
