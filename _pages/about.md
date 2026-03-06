@@ -15,8 +15,8 @@ My current research focuses on studying how risk is allocated among different ag
 
 I am an [Associate of the Society of Actuaries (ASA)](https://www.soa.org/education/exam-req/edu-asa-req) and am currently pursuing fellowship.
 
-## Prospective Students
+<!-- ## Prospective Students
 
 I have two openings for PhD students starting in Fall 2026.
 If you are interested in working with me, please email me your transcripts, CV, and research interests.
-A strong background in mathematics is preferred.
+A strong background in mathematics is preferred. -->
