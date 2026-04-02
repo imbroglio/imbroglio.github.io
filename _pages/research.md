@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-Reviewed Journal Articles
 
-1. Andraos, M., Ghossoub, M., and **Zhu, M.B.** Subgame Perfect Nash Equilibria in Large Reinsurance Markets. _Insurance: Mathematics and Economics_, forthcoming. \[[arXiv](https://arxiv.org/abs/2506.07291)\]
+1. Andraos, M., Ghossoub, M., and **Zhu, M.B.** (2026). [Subgame Perfect Nash Equilibria in Large Reinsurance Markets]({https://doi.org/10.1016/j.insmatheco.2025.103210). _Insurance: Mathematics and Economics_, 127(1):103210.
 1. Ghossoub, M., and **Zhu, M.B.** (2026). [Efficiency in Pure-Exchange Economies with Risk-Averse Monetary Utilities](https://doi.org/10.1111/mafi.70006). _Mathematical Finance_, 36(1):99-117.
 1. Ghossoub, M., **Zhu, M.B.**, and Chong, W.F. (2025). [Pareto-Optimal Peer-to-Peer Risk Sharing with Robust Distortion Risk Measures](https://doi.org/10.1017/asb.2025.6). _ASTIN Bulletin_, 55(3):537-563.
 1. Ghossoub, M., and **Zhu, M.B.** (2025). [Risk-Constrained Portfolio Choice under Rank-Dependent Utility](https://doi.org/10.1007/s00780-024-00555-z). _Finance and Stochastics_, 29(2):399-442.
