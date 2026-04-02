@@ -21,6 +21,7 @@ author_profile: true
 
 ## Academic Presentations
 
+1. Pareto-Optimal Risk Sharing under Risk-Averse Preferences. _Southern University of Science and Technology_ (Mar. 2026).
 1. Efficiency and Equilibria in (Re)Insurance Markets. _Quantact Actuarial and Financial Mathematics Research Seminar_ (Jan. 2025).
 1. Pareto-Efficient Contracts in Centralized vs. Decentralized Insurance Markets. _27th International Congress on Insurance: Mathematics and Economics_ (Jul. 2024).
 1. Equilibria and Efficiency in a Reinsurance Market. _26th International Congress on Insurance: Mathematics and Economics_ (Jul. 2023).
